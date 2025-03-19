@@ -1,0 +1,26 @@
+[
+    {
+        "passenger_count": 2,
+        "trip_distance": 5.3,
+        "ratecodeid": 1,
+        "payment_type": 1,
+        "extra": 0.5,
+        "tip_amount": 2.75,
+        "tolls_amount": 0.0,
+        "congestion_surcharge": 2.5,
+        "tip_percent": 15.0,
+        "store_and_fwd_flag_encoded": 0
+    },
+    {
+        "passenger_count": 1,
+        "trip_distance": 12.0,
+        "ratecodeid": 2,
+        "payment_type": 2,
+        "extra": 1.0,
+        "tip_amount": 3.25,
+        "tolls_amount": 5.5,
+        "congestion_surcharge": 2.5,
+        "tip_percent": 10.0,
+        "store_and_fwd_flag_encoded": 1
+    }
+]
